@@ -139,4 +139,4 @@ const AuthForm = ({ type }: { type: FormType }) => {
         </div>
     )
 }
-export default AuthForm ;
+export default AuthForm
